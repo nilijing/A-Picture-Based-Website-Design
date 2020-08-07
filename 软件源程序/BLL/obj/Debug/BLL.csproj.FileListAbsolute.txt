@@ -1,0 +1,35 @@
+E:\临时\FoodStory\BLL\bin\Debug\BLL.dll
+E:\临时\FoodStory\BLL\bin\Debug\BLL.pdb
+E:\临时\FoodStory\BLL\obj\Debug\ResolveAssemblyReference.cache
+E:\临时\FoodStory\BLL\obj\Debug\BLL.dll
+E:\临时\FoodStory\BLL\obj\Debug\BLL.pdb
+D:\编程\网页开发\Project\asp.net\FoodStory\BLL\bin\Debug\BLL.dll
+D:\编程\网页开发\Project\asp.net\FoodStory\BLL\bin\Debug\BLL.pdb
+D:\编程\网页开发\Project\asp.net\FoodStory\BLL\obj\Debug\ResolveAssemblyReference.cache
+D:\编程\网页开发\Project\asp.net\FoodStory\BLL\obj\Debug\BLL.dll
+D:\编程\网页开发\Project\asp.net\FoodStory\BLL\obj\Debug\BLL.pdb
+D:\编程\网页开发\Project\asp.net\FoodStory\BLL\bin\Debug\DAL.dll
+D:\编程\网页开发\Project\asp.net\FoodStory\BLL\bin\Debug\Model.dll
+D:\编程\网页开发\Project\asp.net\FoodStory\BLL\bin\Debug\Model.pdb
+D:\编程\网页开发\Project\asp.net\FoodStory\BLL\bin\Debug\DAL.pdb
+E:\web设计\FoodStory-master\BLL\bin\Debug\BLL.dll
+E:\web设计\FoodStory-master\BLL\bin\Debug\BLL.pdb
+E:\web设计\FoodStory-master\BLL\bin\Debug\DAL.dll
+E:\web设计\FoodStory-master\BLL\bin\Debug\Model.dll
+E:\web设计\FoodStory-master\BLL\bin\Debug\DAL.pdb
+E:\web设计\FoodStory-master\BLL\bin\Debug\Model.pdb
+E:\web设计\FoodStory-master\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\web设计\FoodStory-master\BLL\obj\Debug\BLL.dll
+E:\web设计\FoodStory-master\BLL\obj\Debug\BLL.pdb
+E:\王若宸 20131307002\软件源程序\FoodStory\BLL\bin\Debug\BLL.dll
+E:\王若宸 20131307002\软件源程序\FoodStory\BLL\bin\Debug\BLL.pdb
+E:\王若宸 20131307002\软件源程序\FoodStory\BLL\bin\Debug\DAL.dll
+E:\王若宸 20131307002\软件源程序\FoodStory\BLL\bin\Debug\Model.dll
+E:\王若宸 20131307002\软件源程序\FoodStory\BLL\bin\Debug\DAL.pdb
+E:\王若宸 20131307002\软件源程序\FoodStory\BLL\bin\Debug\Model.pdb
+E:\王若宸 20131307002\软件源程序\FoodStory\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\王若宸 20131307002\软件源程序\FoodStory\BLL\obj\Debug\BLL.dll
+E:\王若宸 20131307002\软件源程序\FoodStory\BLL\obj\Debug\BLL.pdb
+G:\谭怡静 30\软件源程序\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+G:\谭怡静 30\软件源程序\BLL\obj\Debug\BLL.dll
+G:\谭怡静 30\软件源程序\BLL\obj\Debug\BLL.pdb

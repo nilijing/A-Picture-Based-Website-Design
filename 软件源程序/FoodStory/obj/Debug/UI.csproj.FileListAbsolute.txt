@@ -1,0 +1,48 @@
+E:\临时\FoodStory\FoodStory\bin\FoodStory.dll
+E:\临时\FoodStory\FoodStory\bin\FoodStory.pdb
+E:\临时\FoodStory\FoodStory\obj\Debug\ResolveAssemblyReference.cache
+E:\临时\FoodStory\FoodStory\obj\Debug\FoodStory.dll
+E:\临时\FoodStory\FoodStory\obj\Debug\FoodStory.pdb
+D:\编程\网页开发\Project\asp.net\FoodStory\FoodStory\bin\FoodStory.dll
+D:\编程\网页开发\Project\asp.net\FoodStory\FoodStory\bin\FoodStory.pdb
+D:\编程\网页开发\Project\asp.net\FoodStory\FoodStory\obj\Debug\ResolveAssemblyReference.cache
+D:\编程\网页开发\Project\asp.net\FoodStory\FoodStory\obj\Debug\FoodStory.dll
+D:\编程\网页开发\Project\asp.net\FoodStory\FoodStory\obj\Debug\FoodStory.pdb
+D:\编程\网页开发\Project\asp.net\FoodStory\FoodStory\bin\BLL.dll
+D:\编程\网页开发\Project\asp.net\FoodStory\FoodStory\bin\Model.dll
+D:\编程\网页开发\Project\asp.net\FoodStory\FoodStory\bin\DAL.dll
+D:\编程\网页开发\Project\asp.net\FoodStory\FoodStory\bin\Model.pdb
+D:\编程\网页开发\Project\asp.net\FoodStory\FoodStory\bin\BLL.pdb
+D:\编程\网页开发\Project\asp.net\FoodStory\FoodStory\bin\DAL.pdb
+D:\编程\网页开发\Project\asp.net\FoodStory\FoodStory\bin\Newtonsoft.Json.dll
+E:\web设计\FoodStory-master\FoodStory\bin\FoodStory.dll
+E:\web设计\FoodStory-master\FoodStory\bin\FoodStory.pdb
+E:\web设计\FoodStory-master\FoodStory\bin\BLL.dll
+E:\web设计\FoodStory-master\FoodStory\bin\Model.dll
+E:\web设计\FoodStory-master\FoodStory\bin\DAL.dll
+E:\web设计\FoodStory-master\FoodStory\bin\BLL.pdb
+E:\web设计\FoodStory-master\FoodStory\bin\Model.pdb
+E:\web设计\FoodStory-master\FoodStory\bin\DAL.pdb
+E:\web设计\FoodStory-master\FoodStory\obj\Debug\UI.csprojResolveAssemblyReference.cache
+E:\web设计\FoodStory-master\FoodStory\obj\Debug\FoodStory.dll
+E:\web设计\FoodStory-master\FoodStory\obj\Debug\FoodStory.pdb
+E:\web设计\FoodStory\FoodStory\bin\FoodStory.dll
+E:\web设计\FoodStory\FoodStory\bin\FoodStory.pdb
+E:\web设计\FoodStory\FoodStory\bin\BLL.dll
+E:\web设计\FoodStory\FoodStory\bin\Model.dll
+E:\web设计\FoodStory\FoodStory\bin\DAL.dll
+E:\web设计\FoodStory\FoodStory\bin\BLL.pdb
+E:\web设计\FoodStory\FoodStory\bin\Model.pdb
+E:\web设计\FoodStory\FoodStory\bin\DAL.pdb
+E:\web设计\FoodStory\FoodStory\obj\Debug\UI.csprojResolveAssemblyReference.cache
+E:\web设计\FoodStory\FoodStory\obj\Debug\FoodStory.dll
+E:\web设计\FoodStory\FoodStory\obj\Debug\FoodStory.pdb
+E:\王若宸 20131307002\软件源程序\FoodStory\FoodStory\obj\Debug\UI.csprojResolveAssemblyReference.cache
+E:\王若宸 20131307002\软件源程序\FoodStory\FoodStory\obj\Debug\FoodStory.dll
+E:\王若宸 20131307002\软件源程序\FoodStory\FoodStory\obj\Debug\FoodStory.pdb
+C:\Users\Administrator\Desktop\软件源程序\FoodStory\FoodStory\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\软件源程序\FoodStory\FoodStory\obj\Debug\FoodStory.dll
+C:\Users\Administrator\Desktop\软件源程序\FoodStory\FoodStory\obj\Debug\FoodStory.pdb
+G:\谭怡静 30\软件源程序\FoodStory\obj\Debug\UI.csprojResolveAssemblyReference.cache
+G:\谭怡静 30\软件源程序\FoodStory\obj\Debug\FoodStory.dll
+G:\谭怡静 30\软件源程序\FoodStory\obj\Debug\FoodStory.pdb
